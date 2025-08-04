@@ -1,6 +1,6 @@
 baseURL               = "https://shenweiyan.github.io/WebStack-Demo"
 languageCode          = "zh-CN"
-title                 = "WebStack-Hugo 断网青年"
+title                 = "断网青年"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
